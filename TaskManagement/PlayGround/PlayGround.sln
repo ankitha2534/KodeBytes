@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGround", "PlayGround.csproj", "{0D31C089-6647-4B70-BA40-D98FA749A70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGround.TaskManager", "..\PlayGround.TaskManager\PlayGround.TaskManager.csproj", "{0EE6607A-C949-4C53-9719-1A3F724E3D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D31C089-6647-4B70-BA40-D98FA749A70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D31C089-6647-4B70-BA40-D98FA749A70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D31C089-6647-4B70-BA40-D98FA749A70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D31C089-6647-4B70-BA40-D98FA749A70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE6607A-C949-4C53-9719-1A3F724E3D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE6607A-C949-4C53-9719-1A3F724E3D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE6607A-C949-4C53-9719-1A3F724E3D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE6607A-C949-4C53-9719-1A3F724E3D57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD93A17-5BE0-4466-B0A7-999B66B4FC65}
+	EndGlobalSection
+EndGlobal

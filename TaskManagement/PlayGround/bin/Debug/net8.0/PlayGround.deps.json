@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PlayGround/1.0.0": {
+        "dependencies": {
+          "PlayGround.TaskManager": "1.0.0"
+        },
+        "runtime": {
+          "PlayGround.dll": {}
+        }
+      },
+      "PlayGround.TaskManager/1.0.0": {
+        "runtime": {
+          "PlayGround.TaskManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlayGround/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlayGround.TaskManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

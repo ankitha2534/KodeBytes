@@ -1,0 +1,11 @@
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\bin\Debug\net8.0\PlayGround.TaskManager.deps.json
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\bin\Debug\net8.0\PlayGround.TaskManager.dll
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\bin\Debug\net8.0\PlayGround.TaskManager.pdb
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\obj\Debug\net8.0\PlayGround.TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\obj\Debug\net8.0\PlayGround.TaskManager.AssemblyInfoInputs.cache
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\obj\Debug\net8.0\PlayGround.TaskManager.AssemblyInfo.cs
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\obj\Debug\net8.0\PlayGround.TaskManager.csproj.CoreCompileInputs.cache
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\obj\Debug\net8.0\PlayGround.TaskManager.dll
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\obj\Debug\net8.0\refint\PlayGround.TaskManager.dll
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\obj\Debug\net8.0\PlayGround.TaskManager.pdb
+C:\Core\Git\KodeBytes\TaskManagement\PlayGround.TaskManager\obj\Debug\net8.0\ref\PlayGround.TaskManager.dll
